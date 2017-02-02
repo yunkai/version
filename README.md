@@ -27,7 +27,7 @@ package main
 import (
 	"fmt"
 
-	"gitlab.alibaba-inc.com/redcoast/version"
+	"github.com/yunkai/version"
 )
 
 func main() {
